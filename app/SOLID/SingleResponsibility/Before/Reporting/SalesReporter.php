@@ -2,7 +2,6 @@
 
 namespace App\SOLID\SingleResponsibility\Before\Reporting;
 
-use Auth;
 use Exception;
 use Illuminate\Support\Facades\DB;
 

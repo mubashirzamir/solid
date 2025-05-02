@@ -37,5 +37,4 @@ class SalesReporter
 
         return $this->salesOutput->output($sales);
     }
-
 }
